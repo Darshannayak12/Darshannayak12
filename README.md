@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a Student!
+Passionate about Web Development and Artificial Intelligence, seeking to pursue a Junior Developer role
+in a reputable IT firm to enhance skills in Python, C, HTML, CSS, and JavaScript while contributing to
+innovative creation and development projects
 
 
 ## 🌐 Socials:
